@@ -1,0 +1,23 @@
+.navbar-nav{
+    position: relative;
+    right: 10%;
+    gap: 10px;
+    font-weight: 600;
+    font-size: 18px;
+}
+.logo {
+  font-size: 28px;
+  font-weight: bold;
+    color: rgb(30, 144, 255); /* DodgerBlue */
+
+  text-decoration: none;
+  letter-spacing: 1px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.navbar {
+  border-bottom: none !important;
+  margin-bottom: 0 !important;
+  padding-bottom: 0 !important;
+  background-color: black;
+}
+

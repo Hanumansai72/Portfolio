@@ -1,0 +1,19 @@
+.project-card {
+  background-color: #1a1a1a;
+  transition: transform 0.3s ease;
+  border-radius: 12px;
+  overflow: hidden;
+}
+
+.project-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 4px 20px rgba(0, 123, 255, 0.2);
+}
+
+.project-card .badge {
+  font-size: 0.7rem;
+}
+
+.project-card .card-title {
+  font-weight: 600;
+}
